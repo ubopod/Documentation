@@ -11,13 +11,13 @@ Home screen actions → Menu → Settings
 
 When you open Settings, you see categories such as:
 
-- **Network** — Network-related options.
-- **Remote** — Remote access and connectivity.
-- **System** — General system options (e.g. General, Services, Third Party tools). Under General you may find toggles for PDB Signal, Visual Debug, and Beta Versions. Services and Third Party list configurable services and tools.
-- **Hardware** — Hardware-related settings.
-- **Assistant** — Assistant and voice options.
-- **Docker** — Docker and container options.
-- **Accessibility** — Accessibility options.
+- **[Network](settings/network.md)** — Network-related options ([Wi-Fi](../services/wifi.md), [Ethernet](../services/ethernet.md), [IP](../services/ip.md)).
+- **[Remote](settings/remote.md)** — Remote access and connectivity ([RPi Connect](settings/rpi-connect.md), [SSH](settings/ssh.md), [VS Code](settings/vscode.md)).
+- **[System](settings/system.md)** — General system options: [General](settings/general.md), [Services](settings/services.md), [Users](settings/users.md), [Desktop](settings/desktop.md), [Third Party](settings/third-party.md). See [Architecture → Services](../architecture/services.md) and [System](../architecture/system.md) for overview.
+- **[Hardware](settings/hardware.md)** — Hardware-related settings: [Display](settings/display.md), [Camera](settings/camera.md), [Infrared](settings/infrared.md).
+- **[Assistant](settings/assistant.md)** — Assistant and voice options.
+- **[Docker](settings/docker.md)** — Docker and container options.
+- **[Accessibility](settings/accessibility.md)** — [Picovoice Settings](settings/accessibility-picovoice-settings.md), [Speech Synthesis](settings/accessibility-speech-synthesis.md), [Speech Recognition](settings/accessibility-speech-recognition.md).
 
 Each category opens a sub-menu with specific toggles and actions. The exact items depend on your device and installed services.
 

@@ -6,7 +6,51 @@ nav:
     - Home screen actions:
       - Menu: home/menu.md
       - Apps: home/apps.md
+      - Docker apps:
+        - Home Assistant: home/apps/home-assistant.md
+        - Home Bridge: home/apps/home-bridge.md
+        - Portainer: home/apps/portainer.md
+        - Pi-hole: home/apps/pi-hole.md
+        - Ollama: home/apps/ollama.md
+        - Open WebUI: home/apps/open-webui.md
+        - Ngrok: home/apps/ngrok.md
+        - Immich: home/apps/immich.md
+        - Envoy for gRPC: home/apps/envoy-grpc.md
       - Settings: home/settings.md
+      - Settings categories:
+        - Network: home/settings/network.md
+        - Wi-Fi: home/settings/wifi.md
+        - Remote: home/settings/remote.md
+        - RPi Connect: home/settings/rpi-connect.md
+        - SSH: home/settings/ssh.md
+        - VS Code: home/settings/vscode.md
+        - System: home/settings/system.md
+        - Users: home/settings/users.md
+        - General: home/settings/general.md
+        - Desktop: home/settings/desktop.md
+        - Services: home/settings/services.md
+        - Third Party: home/settings/third-party.md
+        - Hardware: home/settings/hardware.md
+        - Display: home/settings/display.md
+        - Camera: home/settings/camera.md
+        - Infrared: home/settings/infrared.md
+        - Replay Devices: home/settings/infrared-replay-devices.md
+        - Manage Keys: home/settings/infrared-manage-keys.md
+        - Infrared Settings: home/settings/infrared-settings.md
+        - Assistant: home/settings/assistant.md
+        - Manage: home/settings/assistant-manage.md
+        - MCP Tools: home/settings/assistant-mcp-tools.md
+        - Image Generator: home/settings/assistant-image-generator.md
+        - Speech Synthesis: home/settings/assistant-speech-synthesis.md
+        - Language Model: home/settings/assistant-language-model.md
+        - Speech Recognition: home/settings/assistant-speech-recognition.md
+        - Docker: home/settings/docker.md
+        - Service: home/settings/docker-service.md
+        - Registries: home/settings/docker-registries.md
+        - Accessibility: home/settings/accessibility.md
+        - Picovoice Settings: home/settings/accessibility-picovoice-settings.md
+        - Speech Synthesis: home/settings/accessibility-speech-synthesis.md
+        - Speech Recognition: home/settings/accessibility-speech-recognition.md
       - About: home/about.md
       - Notifications: home/notifications.md
       - Power: home/power.md
