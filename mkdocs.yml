@@ -1,0 +1,52 @@
+site_name: Ubo App
+
+nav:
+  - Ubo App:
+    - Home screen: index.md
+    - Home screen actions:
+      - Menu: home/menu.md
+      - Apps: home/apps.md
+      - Settings: home/settings.md
+      - About: home/about.md
+      - Notifications: home/notifications.md
+      - Power: home/power.md
+    - Ubo interface: ubo-interface.md
+  - Getting Started: getting-started.md
+  - Architecture:
+    - Overview: architecture/overview.md
+    - Store: architecture/store.md
+    - Services: architecture/services.md
+    - RPC: architecture/rpc.md
+    - Engines: architecture/engines.md
+    - System: architecture/system.md
+    - Menu App: architecture/menu-app.md
+  - Services:
+    - Audio: services/audio.md
+    - Display: services/display.md
+    - Keypad: services/keypad.md
+    - Notifications: services/notifications.md
+    - Speech Synthesis: services/speech-synthesis.md
+    - Keyboard: services/keyboard.md
+    - Ethernet: services/ethernet.md
+    - IP: services/ip.md
+    - Wi-Fi: services/wifi.md
+    - Camera: services/camera.md
+    - RGB Ring: services/rgb-ring.md
+    - Sensors: services/sensors.md
+    - LightDM: services/lightdm.md
+    - RPi Connect: services/rpi-connect.md
+    - SSH: services/ssh.md
+    - Users: services/users.md
+    - VS Code: services/vscode.md
+    - Docker: services/docker.md
+    - Assistant: services/assistant.md
+    - File System: services/file-system.md
+    - Infrared: services/infrared.md
+    - Speech Recognition: services/speech-recognition.md
+    - Web UI: services/web-ui.md
+  - Development:
+    - Testing: development/testing.md
+    - Scripts: development/scripts.md
+    - Deployment: development/deployment.md
+  - Reference:
+    - Proto: reference/proto.md
