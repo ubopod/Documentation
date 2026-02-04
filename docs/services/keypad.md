@@ -3,9 +3,9 @@
 **Services**  
 Keypad
 
-![Keypad](assets/images/services/keypad.png)
+![Keypad](../assets/images/buttons.png)
 
-*Image: Keypad / physical buttons (placeholder).*
+*Image: Keypad / physical buttons.*
 
 The **Keypad** service reads physical button input (e.g. AW9523 GPIO expander on Ubo Pod) and dispatches key press, hold, unhold, and release actions. These drive menu navigation and L1/L2/L3 shortcuts.
 

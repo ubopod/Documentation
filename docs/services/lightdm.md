@@ -3,9 +3,7 @@
 **Services**  
 LightDM
 
-![LightDM](assets/images/services/lightdm.png)
-
-*Image: LightDM / desktop session (placeholder).*
+*Image: LightDM / desktop session (placeholder - system service, no UI screen).*
 
 The **LightDM** service tracks and controls the LightDM display manager state (e.g. whether the desktop session is active or enabled). Used for settings that depend on desktop login state.
 

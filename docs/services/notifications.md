@@ -3,9 +3,9 @@
 **Services**  
 Notifications
 
-![Notifications](assets/images/services/notifications.png)
+![Notifications](../assets/images/notifications.png)
 
-*Image: Notifications list (placeholder).*
+*Image: Notifications list.*
 
 The **Notifications** service stores and displays alerts (title, content, importance, chime, progress, dismiss). The home screen shows a bell icon that opens the notifications list; notifications can be sticky, flash, or background.
 

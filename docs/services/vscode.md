@@ -3,7 +3,7 @@
 **Services**  
 VS Code
 
-![VS Code](assets/images/services/vscode.png)
+![VS Code](../assets/images/settings/vs-code.png)
 
 *Image: VS Code tunnel (placeholder).*
 

@@ -3,7 +3,7 @@
 **Services**  
 Speech Recognition
 
-![Speech Recognition](assets/images/services/speech-recognition.png)
+![Speech Recognition](../assets/images/settings/assistant-speech-recognition.png)
 
 *Image: Speech recognition / STT (placeholder).*
 

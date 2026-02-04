@@ -3,7 +3,7 @@
 **Services**  
 Users
 
-![Users](assets/images/services/users.png)
+![Users](../assets/images/settings/users.png)
 
 *Image: User management (placeholder).*
 

@@ -3,7 +3,7 @@
 **Services**  
 Infrared
 
-![Infrared](assets/images/services/infrared.png)
+![Infrared](../assets/images/settings/infrared.png)
 
 *Image: Infrared remote (placeholder).*
 

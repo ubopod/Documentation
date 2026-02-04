@@ -3,9 +3,9 @@
 **Services**  
 Sensors
 
-![Sensors](assets/images/services/sensors.png)
+![Sensors](../assets/images/components.png)
 
-*Image: Sensors (placeholder).*
+*Image: Sensors (showing device components including sensors).*
 
 The **Sensors** service reads onboard sensors (e.g. ambient light, temperature on Ubo Pod) and reports readings to the store. The home screen or other UI can show temperature and light level.
 

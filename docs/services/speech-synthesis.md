@@ -3,7 +3,7 @@
 **Services**  
 Speech Synthesis
 
-![Speech Synthesis](assets/images/services/speech-synthesis.png)
+![Speech Synthesis](../assets/images/settings/assistant-speech-synthesis.png)
 
 *Image: Speech synthesis / TTS (placeholder).*
 

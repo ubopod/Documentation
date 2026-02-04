@@ -3,9 +3,9 @@
 **Services**  
 Keyboard
 
-![Keyboard](assets/images/services/keyboard.png)
+![Keyboard](../assets/images/buttons.png)
 
-*Image: Keyboard shortcuts (placeholder).*
+*Image: Keyboard shortcuts / buttons.*
 
 The **Keyboard** service maps keyboard input (e.g. in development or over SSH) to the same actions as the keypad (navigation, L1/L2/L3, back, home). It allows using a physical keyboard or emulated keys instead of the device keypad.
 

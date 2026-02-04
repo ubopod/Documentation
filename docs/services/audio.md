@@ -3,9 +3,7 @@
 **Services**  
 Audio
 
-![Audio](assets/images/services/audio.png)
-
-*Image: Audio service / volume UI (placeholder).*
+*Image: Audio service / volume UI (placeholder - no dedicated UI screen).*
 
 The **Audio** service manages playback, recording, volume, and mute for input and output devices. It uses ALSA/PulseAudio on Raspberry Pi and can trigger driver installation via the system manager.
 

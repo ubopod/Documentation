@@ -3,7 +3,7 @@
 **Services**  
 Wi-Fi
 
-![Wi-Fi](assets/images/services/wifi.png)
+![Wi-Fi](../assets/images/settings/wifi.png)
 
 *Image: Wi-Fi networks (placeholder).*
 

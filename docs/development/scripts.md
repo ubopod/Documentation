@@ -3,10 +3,6 @@
 **Development**  
 Scripts
 
-![Scripts](assets/images/development/scripts.png)
-
-*Image: Scripts / build (placeholder).*
-
 This page summarizes the main scripts and **poe** tasks used for building, code generation, and running Ubo App in development.
 
 ## What you see

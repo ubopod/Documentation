@@ -3,7 +3,7 @@
 **Services**  
 Camera
 
-![Camera](assets/images/services/camera.png)
+![Camera](../assets/images/settings/camera.png)
 
 *Image: Camera / viewfinder (placeholder).*
 

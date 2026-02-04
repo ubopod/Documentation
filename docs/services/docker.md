@@ -3,7 +3,7 @@
 **Services**  
 Docker
 
-![Docker](assets/images/services/docker.png)
+![Docker](../assets/images/settings/docker.png)
 
 *Image: Docker apps (placeholder).*
 

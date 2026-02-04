@@ -3,7 +3,7 @@
 **Services**  
 Assistant
 
-![Assistant](assets/images/services/assistant.png)
+![Assistant](../assets/images/settings/assistant.png)
 
 *Image: Assistant / voice AI (placeholder).*
 

@@ -3,10 +3,6 @@
 **Development**  
 Deployment
 
-![Deployment](assets/images/development/deployment.png)
-
-*Image: Deploy to device (placeholder).*
-
 Deployment covers building Ubo App, installing it on a Raspberry Pi (or Ubo Pod), and running it as a service. For end users, see [Getting Started](../getting-started.md) (image or install script). For developers, this page describes the **deploy-to-device** workflow.
 
 ## What you see

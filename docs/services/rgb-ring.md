@@ -3,9 +3,9 @@
 **Services**  
 RGB Ring
 
-![RGB Ring](assets/images/services/rgb-ring.png)
+![RGB Ring](../assets/images/rgb.png)
 
-*Image: RGB LED ring (placeholder).*
+*Image: RGB LED ring.*
 
 The **RGB Ring** service drives the addressable LED ring (e.g. 27 LEDs on Ubo Pod). It supports solid colors, brightness, blank, rainbow, pulse, blink, progress wheel, spinning wheel, and sequences—used for status and feedback.
 

@@ -3,7 +3,7 @@
 **Services**  
 SSH
 
-![SSH](assets/images/services/ssh.png)
+![SSH](../assets/images/settings/ssh.png)
 
 *Image: SSH settings (placeholder).*
 

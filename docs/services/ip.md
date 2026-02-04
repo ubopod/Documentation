@@ -3,9 +3,9 @@
 **Services**  
 IP
 
-![IP](assets/images/services/ip.png)
+![IP](../assets/images/rear.png)
 
-*Image: IP / network interfaces (placeholder).*
+*Image: IP / network interfaces (showing network ports on rear).*
 
 The **IP** service tracks network interfaces and connection status (e.g. whether the device has an IP and is considered “connected”). Used by the status bar and network settings.
 

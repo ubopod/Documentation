@@ -3,7 +3,7 @@
 **Services**  
 Display
 
-![Display](assets/images/services/display.png)
+![Display](../assets/images/settings/display.png)
 
 *Image: Display service (placeholder).*
 

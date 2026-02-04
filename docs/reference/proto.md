@@ -3,10 +3,6 @@
 **Reference**  
 Proto
 
-![Proto](assets/images/reference/proto.png)
-
-*Image: Proto / gRPC (placeholder).*
-
 Ubo App uses **Protocol Buffers** for the gRPC API and for serializing store actions and events. Proto definitions live under `ubo_app/rpc/proto/`; Python bindings are generated into `ubo_app/rpc/ubo_bindings/`.
 
 ## What you see

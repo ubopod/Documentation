@@ -3,9 +3,9 @@
 **Services**  
 Ethernet
 
-![Ethernet](assets/images/services/ethernet.png)
+![Ethernet](../assets/images/rear.png)
 
-*Image: Ethernet / wired network (placeholder).*
+*Image: Ethernet / wired network (showing Ethernet port on rear).*
 
 The **Ethernet** service manages wired network connection state and configuration. It integrates with NetworkManager (on Raspberry Pi) and updates the store with link state.
 

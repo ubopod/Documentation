@@ -3,7 +3,7 @@
 **Services**  
 RPi Connect
 
-![RPi Connect](assets/images/services/rpi-connect.png)
+![RPi Connect](../assets/images/settings/rpi-connect.png)
 
 *Image: RPi Connect (placeholder).*
 

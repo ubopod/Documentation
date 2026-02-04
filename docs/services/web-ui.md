@@ -3,9 +3,9 @@
 **Services**  
 Web UI
 
-![Web UI](assets/images/services/web-ui.png)
+![Web UI](../assets/images/web-ui.png)
 
-*Image: Web UI (placeholder).*
+*Image: Web UI.*
 
 The **Web UI** service serves the browser-based interface (e.g. port 4321): dashboard, hotspot config, and real-time subscription to store state and display/audio events so the web client mirrors the device UI and playback.
 

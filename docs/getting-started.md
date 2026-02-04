@@ -2,10 +2,6 @@
 
 **Getting Started**
 
-![Getting started](assets/images/getting-started.png)
-
-*Image: Ubo device or setup diagram (placeholder).*
-
 This guide helps you set up and run Ubo App—the application that provides a unified interface and tools for hardware-integrated apps on Raspberry Pi (4 & 5) and compatible devices.
 
 ## What you need

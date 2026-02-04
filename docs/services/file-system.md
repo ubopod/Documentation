@@ -3,9 +3,9 @@
 **Services**  
 File System
 
-![File System](assets/images/services/file-system.png)
+![File System](../assets/images/internal.png)
 
-*Image: File browser (placeholder).*
+*Image: File System (showing internal device structure).*
 
 The **File System** service provides file operations from the UI: browse, select, copy, move, remove. State holds the current selection and optional paths; actions perform operations (often via system or async tasks).
 

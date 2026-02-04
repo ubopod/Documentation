@@ -1,5 +1,7 @@
 # Ubo interface
 
+![Buttons](assets/images/buttons.png)
+
 The Ubo device has a physical keypad with seven buttons. Here is what each one does.
 
 ## Navigation buttons

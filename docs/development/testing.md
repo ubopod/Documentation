@@ -3,10 +3,6 @@
 **Development**  
 Testing
 
-![Testing](assets/images/development/testing.png)
-
-*Image: Test run / CI (placeholder).*
-
 Ubo App uses **pytest** for unit and integration tests. Tests can run on the desktop (optionally in Docker for consistent snapshots) or on the device.
 
 ## What you see
