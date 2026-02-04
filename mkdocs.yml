@@ -1,5 +1,15 @@
 site_name: Ubo App
 
+theme:
+  name: material
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
 nav:
   - Ubo App:
     - Home screen: index.md
