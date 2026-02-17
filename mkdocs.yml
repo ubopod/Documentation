@@ -1,4 +1,5 @@
 site_name: Ubo App
+site_url: https://docs.getubo.com/
 
 theme:
   name: material
